@@ -1,0 +1,21 @@
+[
+    {
+        "name": "resetFunc",
+        "private": true
+    },
+    {
+        "name": "writeData",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "readData",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "writeData2",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]

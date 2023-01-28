@@ -1,0 +1,7 @@
+{
+    "enabled": false,
+    "mongo_service_name": "mongodb-atlas",
+    "database_name": "mongodbworld",
+    "collection_name": "2022",
+    "user_id_field": "userId"
+}
