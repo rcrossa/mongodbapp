@@ -4,6 +4,22 @@
         "type": "api-key",
         "disabled": true
     },
+    "custom-token": {
+        "name": "custom-token",
+        "type": "custom-token",
+        "config": {
+            "audience": [],
+            "requireAnyAudience": false,
+            "signingAlgorithm": "HS256",
+            "useJWKURI": false
+        },
+        "secret_config": {
+            "signingKeys": [
+                "83DFEC7157513B3A7255DEA8F8695"
+            ]
+        },
+        "disabled": false
+    },
     "local-userpass": {
         "name": "local-userpass",
         "type": "local-userpass",
