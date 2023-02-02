@@ -30,5 +30,20 @@
             "runResetFunction": true
         },
         "disabled": false
+    },
+    "oauth2-google": {
+        "name": "oauth2-google",
+        "type": "oauth2-google",
+        "config": {
+            "clientId": "AIzaSyAnVPjlYZb_dTPJF4eBSIkEDkTg4WxBLaE",
+            "openId": true
+        },
+        "secret_config": {
+            "clientSecret": "83DFEC7157513B3A7255DEA8F8695"
+        },
+        "disabled": false,
+        "redirect_uris": [
+            "https://us-east-1.aws.realm.mongodb.com/api/client/v2.0/auth/callback"
+        ]
     }
 }
