@@ -35,7 +35,7 @@
         "name": "oauth2-google",
         "type": "oauth2-google",
         "config": {
-            "clientId": "AIzaSyAnVPjlYZb_dTPJF4eBSIkEDkTg4WxBLaE",
+            "clientId": "931386346009-ps19oom7qlagphfg6vaveg78aff36nfr.apps.googleusercontent.com",
             "openId": true
         },
         "secret_config": {
